@@ -17,21 +17,14 @@ Both Kali and Metasploitable 2 are installed in Virtual Box and are connected us
 Wireshark Capture Test
 
 An analysis of the network traffic between Kali and Metasploitable 2 was done using Wireshark, where packets created during scanning and communication between the machines were captured.
-
 Packets Captured will help when observing
-
 The communications between the attacker and the target machines.
 
 Purpose of the Lab
 
 This virtual lab helps learners understand:
-
 Basic penetration testing concepts
-
 Network reconnaissance and packet analysis
-
 Safe cybersecurity experimentation in an isolated environment
-
 The protocol operations for both TCP and DNS.
-
 The TCP three way handshake.
