@@ -1,6 +1,1 @@
-Linux cheat Sheet
-A Linux cheat sheet is a quick reference guide that helps users remember commonly used Linux commands for managing files, directories, processes, and networks.
-In Linux, basic file system navigation is performed using commands such as pwd, which displays the current working directory, ls, which lists files and directories, and cd, which allows users to change directories. 
-File and directory management can be done using commands like touch to create files, mkdir to create directories, cp to copy files, mv to move or rename files, and rm to delete files or folders. 
-Linux also provides permission management through commands such as chmod, which changes file permissions, and chown, which changes file ownership. Software packages in Debian-based systems like Kali Linux are managed using tools such as apt for installing, updating, or removing packages and dpkg for handling .deb packages. Networking commands like ifconfig or ip a help display network configurations, while ping checks connectivity to another host and traceroute shows the route taken by packets across a network. Additionally, process management commands like ps, top, and kill help monitor and control running processes. 
-These commands form the foundation of Linux system administration and are widely used in cybersecurity, networking, and software development environments.
+
